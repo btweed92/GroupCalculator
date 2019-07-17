@@ -1,0 +1,7 @@
+C:\Users\tweed\source\repos\GroupCalculator\GroupCalculator\bin\Debug\GroupCalculator.exe.config
+C:\Users\tweed\source\repos\GroupCalculator\GroupCalculator\bin\Debug\GroupCalculator.exe
+C:\Users\tweed\source\repos\GroupCalculator\GroupCalculator\bin\Debug\GroupCalculator.pdb
+C:\Users\tweed\source\repos\GroupCalculator\GroupCalculator\obj\Debug\GroupCalculator.csprojAssemblyReference.cache
+C:\Users\tweed\source\repos\GroupCalculator\GroupCalculator\obj\Debug\GroupCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tweed\source\repos\GroupCalculator\GroupCalculator\obj\Debug\GroupCalculator.exe
+C:\Users\tweed\source\repos\GroupCalculator\GroupCalculator\obj\Debug\GroupCalculator.pdb
